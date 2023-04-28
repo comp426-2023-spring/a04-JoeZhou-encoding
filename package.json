@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a04-JoeZhou-encoding/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a04-JoeZhou-encoding#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a04-JoeZhou-encoding#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
